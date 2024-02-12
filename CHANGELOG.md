@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/Vunovati/pino-opentelemetry-transport/compare/v0.5.0...v0.5.1) (2024-02-12)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/setup-node from 3 to 4 ([#133](https://github.com/Vunovati/pino-opentelemetry-transport/issues/133)) ([c3735e7](https://github.com/Vunovati/pino-opentelemetry-transport/commit/c3735e7ebd38c5d1893238e893490d4b353d5662))
+
 ## [0.5.0](https://github.com/Vunovati/pino-opentelemetry-transport/compare/v0.4.1...v0.5.0) (2024-02-09)
 
 
